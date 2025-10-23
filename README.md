@@ -64,14 +64,15 @@ This project simplifies that process into a command-line tool with:
 git clone https://github.com/athulcoder/gdrive-timestamp-updater.git
 cd google-drive-date-modifier
 
-
+```
 ## Install dependencies
 ```bash
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
-##example
+## example
 ```bash
 python main.py -c service_account.json --recursive 132o7aen5Qy6OnwkWe5YiNfYxMW-ZO4Nb 2006-03-24T09:20:25.000Z
 
