@@ -1,0 +1,6 @@
+# Don't commit service account keys
+*.json
+service_account.json
+keys/
+__pycache__/
+*.pyc

@@ -61,7 +61,7 @@ This project simplifies that process into a command-line tool with:
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/google-drive-date-modifier.git
+git clone https://github.com/athulcoder/gdrive-timestamp-updater.git
 cd google-drive-date-modifier
 
 
